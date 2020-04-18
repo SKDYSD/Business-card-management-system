@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Business card management system", "Business card management system.pyproj", "{09CB5CF7-CBB6-4EC0-A8CA-548D58519288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CB5CF7-CBB6-4EC0-A8CA-548D58519288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CB5CF7-CBB6-4EC0-A8CA-548D58519288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0668D15F-0006-4BE6-AC60-1E5CF96CAC9C}
+	EndGlobalSection
+EndGlobal
